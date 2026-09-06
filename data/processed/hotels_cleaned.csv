@@ -1,0 +1,768 @@
+hotel_id,city_id,name,rating,description,url,city,latitude,longitude
+1,5,"Le Clémenceau - 6 pers, balcon & cœur de Rouen",,"Spacious Accommodations: Le Clémenceau in Rouen offers a spacious apartment with three bedrooms and one bathroom. The property includes a balcony with outdoor seating, ensuring comfortable outdoor spaces.
+
+Modern Amenities: Guests enjoy free WiFi, a fully equipped kitchen with a coffee machine, microwave, and oven. Additional amenities include a washing machine, dining area, and work desk.
+
+Prime Location: Located 51 mi from Deauville - Normandie Airport, the apartment is a short walk from Voltaire Station and Noter-Dame Cathedral. Nearby attractions include the Musee des Beaux-Arts de Rouen and Rouen Expo.",https://www.booking.com/hotel/fr/le-clemenceau-6-pers-balcon-amp-coeur-de-rouen.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4347679,1.0888978
+2,5,ibis budget Rouen Centre Rive Gauche,8.3,"Hotel ibis budget Rouen Center Rive Gauche Gauche is located in Rouen, 1.5 mi from Rouen Kindarena Sports Hall.
+
+All rooms are equipped with a flat-screen TV. Each room comes with a private bathroom.
+
+There is luggage storage space at the property.
+
+Noter-Dame Cathedral of Rouen is 1.6 mi from Hotel Ibis Budget, while Rouen University Hospital is 2.1 mi away. The nearest airport is Beauvais Tille Airport, 47 mi from Hotel ibis budget Rouen Center Rive Gauche Gauche.",https://www.booking.com/hotel/fr/ibis-budget-rouen-centre-rive-gauche.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.425341,1.068718
+3,5,"Radisson Blu Hotel, Rouen Centre",8.9,"Comfortable Accommodations: Rooms feature air conditioning, private bathrooms, minibars, and free WiFi. Additional amenities include balconies, terraces, and connecting rooms.
+
+Wellness and Leisure: The hotel offers a spa and wellness center, sauna, fitness center, sun terrace, and hammam. Guests can also enjoy beauty services, wellness packages, and a fitness room.
+
+Dining Experience: The modern restaurant serves French cuisine with brunch, lunch, and dinner. Breakfast includes local specialties, warm dishes, fresh pastries, and more.
+
+Prime Location: Located in downtown Rouen, the hotel is less than 0.6 miles from Notre-Dame Cathedral and near attractions such as the Rouen Museum of Fine Arts. Beauvais–Tillé Airport is about 52 miles away.",https://www.booking.com/hotel/fr/radisson-blu-rouen-centre.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.446441,1.09412
+4,5,Hyatt Place Rouen,8.6,"Comfortable Accommodations: Hyatt Place Rouen in Rouen offers spacious rooms with air conditioning, private bathrooms, and modern amenities. Guests enjoy free WiFi, flat-screen TVs, and work desks.
+
+Exceptional Facilities: The hotel features a fitness center, spa facilities, sun terrace, and a garden. Additional amenities include a steam room, wellness packages, and a minimarket.
+
+Dining Experience: A modern restaurant serves French cuisine for lunch and dinner. Breakfast options include continental, American, buffet, vegetarian, and gluten-free.
+
+Prime Location: Located less than 0.6 miles from Rouen Rive Droite Station and near Notre-Dame Cathedral, the hotel is about 52 miles from Beauvais–Tillé Airport. Surrounding activities include ice skating and boating.",https://www.booking.com/hotel/fr/hyatt-place-rouen.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.45328564064136,1.09828529731665
+5,5,B&B HOTEL Rouen Centre,6.8,"Ideally located for exploring Rouen, a city of art, history, and culture. Whether you're traveling for business, visiting family, or on a weekend getaway, our hotel offers all the amenities you need for a successful stay.
+
+Our rooms are designed to guarantee maximum comfort:
+- Quality bedding
+- Private bathroom with shower
+- Free high-speed Wi-Fi
+- Flat-screen TV with TNT channels
+- Rooms accessible to people with reduced mobility (PMR).
+We offer several configurations: double and twin rooms.
+
+Full and delicious buffet breakfast
+Every morning between 6:00 a.m. and 10:00 a.m., enjoy our all-you-can-eat buffet breakfast, served in a welcoming dining room.
+On the menu: pastries, breads, brioche, jams, yogurts, cereals, eggs, ham, bacon, cheeses, hot drinks, and fruit juices.
+An ideal way to start your day of work or discovery. 
+
+Arrival and Departure Times
+Check-in from 2:00 PM
+Check-out until 12:00 PM
+For late arrivals, please notify reception.
+
+Secure Private Parking
+We provide secure private parking (additional charge).
+The rate is €6 per day. To access the parking lot, please go to ""Avenue de Bretagne,"" follow the signs for night access, and park at the letter K.
+Public parking is also available nearby.
+
+A Strategic Location in the Heart of Rouen
+Located on the banks of the Seine, a few minutes' walk from the historic center of Rouen, our hotel enjoys an ideal central location for discovering the city's cultural and architectural riches.
+
+Close to Museums and Cultural Sites
+Rouen is a city with an exceptional heritage. From the hotel, you can easily access the main museums and monuments on foot or by public transport:
+
+Museum of Fine Arts (15-minute walk): one of the richest collections in France, with works by Monet, Delacroix, Modigliani, and Gérard David.
+
+Historial Joan of Arc: a multimedia immersion into the story of the Maid of Orléans, a must-see for history buffs.
+
+Museum of Natural History: ideal for families, one of the oldest museums in France.
+
+Rouen Cathedral (12-minute walk): a masterpiece of Gothic architecture, immortalized by Monet.
+
+Gros-Horloge, Saint-Maclou Church, and Aître Saint-Maclou are all within walking distance.
+
+Close to universities and training centers
+The B&B Hôtel Rouen Center is also an excellent choice for students, teachers, researchers, or visiting parents:
+
+University of Rouen Normandy – Pasteur Campus: less than 10 minutes on foot
+
+Faculty of Law, Literature, and Humanities: accessible by bus or on foot
+
+INSA Rouen, NEOMA Business School, CESI, ESIGELEC: easily accessible by public transport or car
+
+CHU Charles Nicolle & University Hospital: less than 15 minutes by public transport
+
+Practical on-site services
+
+Lougne bar available from October 20th
+Free high-speed Wi-Fi throughout the hotel
+
+Vending machines with snacks and drinks
+
+Pets welcome (surcharge)
+
+Elevator
+
+100% nonsmoking hotel
+
+24-hour reception
+
+Good value for money in the heart of the city
+
+The B&B Hôtel Rouen Center offers you a An excellent compromise between comfort, location, and price. Whether you're on a short or extended stay, you'll appreciate our simple and efficient service, in a warm atmosphere.",https://www.booking.com/hotel/fr/comforthotelrouencentre.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.4303262811811,1.0848328471183777
+6,5,ibis Rouen Centre Rive Droite Pasteur,8.2,"Comfortable Accommodations: Rooms feature air conditioning, private bathrooms, work desks, and soundproofing. Each room includes a TV, wardrobe, and carpeted floors.
+
+Exceptional Facilities: Guests enjoy a terrace, bar, and free WiFi. Additional amenities include an elevator, 24-hour front desk, daily housekeeping, coffee shop, full-day security, bicycle parking, and luggage storage.
+
+Delicious Breakfast: A variety of breakfast options are available, including continental, American, buffet, vegetarian, and gluten-free. Local specialties, fresh pastries, cheese, fruits, and juice are served.
+
+Prime Location: Located in Rouen, the hotel is about one mile from Notre-Dame Cathedral and around 53 miles from Deauville - Normandie Airport. Nearby attractions include an ice-skating rink and boating. Guests appreciate the convenient location, attentive staff, and room cleanliness.",https://www.booking.com/hotel/fr/ibis-rouen-centre-rive-droite-pasteur.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.4435,1.07581
+7,5,ibis Rouen Centre Champ de Mars,8.2,"Located just a 10-minute walk from the center of Rouen, ibis Rouen Champ de Mars offers a sauna and 24-hour reception. Rouen Cathedral is only a 15-minute walk from the hotel.
+
+All rooms are air-conditioned and feature a flat-screen TV, wardrobe, desk and telephone. The private bathroom includes a hairdryer.
+
+A buffet breakfast composed of sweet and savory dishes such as eggs, fruit salad, yogurts and juices is served every day. Pastries baked on site and fresh French Madeleine cakes are also on offer, as well as a hot beverage and a piece of fruit to take away. Outside of regular breakfast hours guests can also enjoy a lighter option, available from 04:00.
+
+Guests can relax with a drink in the on-site bar and restaurants can be found in the city center.
+
+Additional features include free WiFi access throughout and luggage storage. The train station is 1.2 mi away and the A150 motorway is ideally located a 10-minute drive from the hotel. Charging stations for electric cars are available at this property.",https://www.booking.com/hotel/fr/ibis-rouen-champ-de-mars.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.43572312061268,1.102731227874756
+8,5,Loft moderne avec garage dans l'hyper centre,9.0,"Spacious and Modern: Loft moderne avec garage dans l'hyper center in Rouen offers a spacious, recently renovated apartment with free WiFi and free on-site private parking. The ground-floor unit includes two bedrooms, a living room, and a fully equipped kitchen.
+
+Comfortable Amenities: The apartment features a dining area, sofa bed, walk-in shower, and a work desk. Additional amenities include a TV, microwave, dishwasher, and free toiletries. The property is pet-friendly and welcomes guests with pets.
+
+Prime Location: Located in the city center, the apartment is a 7-minute walk from Noter-Dame Cathedral and less than 0.6 mi from the Musee des Beaux-Arts de Rouen. Beauvais–Tillé Airport is 52 mi away. Nearby attractions include Gare de Rouen Rive Droite and Voltaire Station.
+
+Local Activities: Guests can enjoy nearby activities such as ice-skating and boating. The surrounding area offers various leisure options for a memorable stay.",https://www.booking.com/hotel/fr/modern-loft-with-private-garage-in-rouen-center.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4405213,1.1005273
+9,5,Ibis Styles Rouen Centre Rive Gauche,8.4,"Comfortable Accommodations: Rooms feature air conditioning, private bathrooms with walk-in showers, city or inner courtyard views, and complimentary toiletries. Additional amenities include soundproofing, hardwood floors, and wardrobes.
+
+Exceptional Facilities: Guests enjoy a sun terrace, bar, and free WiFi. The hotel offers a lounge, elevator, 24-hour front desk, daily housekeeping, indoor play area, electric vehicle charging, outdoor seating, family rooms, bicycle parking, express check-in and check-out, and luggage storage.
+
+Delicious Breakfast: A continental buffet breakfast is served with juice, fresh pastries, pancakes, cheese, and fruits. Guests appreciate the quality and variety of the morning meal.
+
+Prime Location: Located in Rouen, the hotel is about 1.2 miles from Voltaire Station and about 2.4 miles from Notre-Dame Cathedral. Deauville - Normandie Airport is around 51 miles away. Nearby attractions include an ice-skating rink and boating.",https://www.booking.com/hotel/fr/ibis-styles-rouen-centre-rive-gauche.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.42498665756126,1.0686087460327045
+10,5,Duplex vieux marché quartier historique wifi/parking,9.4,"Spacious Accommodations: Duplex vieux marché quartier historique wifi/parking in Rouen offers a spacious apartment with two bedrooms and two bathrooms. The property features parquet floors and a terrace with city views.
+
+Modern Amenities: Guests enjoy free WiFi, air-conditioning, and a fully equipped kitchen with a fireplace. Additional amenities include a work desk, TV, and a washing machine.
+
+Prime Location: Located in the city center, the apartment is an 8-minute walk from Noter-Dame Cathedral and less than 0.6 mi from Gare de Rouen Rive Droite. Nearby attractions include the Musee des Beaux-Arts de Rouen and Deauville - Normandie Airport, 53 mi away.
+
+Guest Satisfaction: Highly rated for its convenient location, terrace, and room cleanliness.",https://www.booking.com/hotel/fr/duplex-vieux-marche-quartier-historique-wifi-parking.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4440668,1.0869848
+11,5,Le Majolique Nice and Cozy Apartment,9.4,"Modern Comforts: Le Majolique Nice and Cozy Apartment in Rouen offers a recently renovated apartment with a garden and terrace. Free WiFi is available throughout the property.
+
+Convenient Facilities: Guests can enjoy free on-site private parking, a balcony, washing machine, and a fully equipped kitchen with a coffee machine and dishwasher. Additional amenities include a walk-in shower, parquet floors, and a TV.
+
+Prime Location: Located 12 minutes from Voltaire Station and 0.7 mi from Noter-Dame Cathedral, the apartment is near attractions such as the Musee des Beaux-Arts de Rouen (1.1 mi) and Rouen Expo (3.1 mi). Beauvais–Tillé Airport is 53 mi away.
+
+Local Activities: The surrounding area features an ice-skating rink and boating opportunities, providing ample leisure options for guests.",https://www.booking.com/hotel/fr/le-majolique-nice-and-cozy-apartment.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4313713,1.0889775
+12,5,Ibis Rouen Centre Rive Gauche Mermoz,7.7,"Located in Rouen, 1.5 mi from Rouen Kindarena Sports Hall, Ibis Rouen Center Mermoz Rive Gauche features accommodations with a restaurant, private parking, a bar and a shared lounge. This 3-star hotel offers a 24-hour front desk, luggage storage space and free WiFi.
+
+The rooms are fitted with air conditioning, a flat-screen TV with satellite channels, a shower, a hairdryer and a desk. At the hotel rooms have a wardrobe and a private bathroom.
+
+Guests at Ibis Rouen Center Mermoz Rive Gauche can enjoy a continental or a buffet breakfast.
+
+The accommodations offers a terrace.
+
+Noter-Dame Cathedral of Rouen is 1.7 mi from Ibis Rouen Center Mermoz Rive Gauche. The nearest airport is Deauville - Normandie Airport, 53 mi from the hotel.",https://www.booking.com/hotel/fr/campanile-rouen-mermoz.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4344334121881,1.07183610554887
+13,5,Le petit Rouen,9.5,"Comfortable Living: Le petit Rouen in Rouen offers a one-bedroom apartment with a living room and a fully equipped kitchen. The property includes a washing machine and TV for added convenience.
+
+Essential Facilities: Guests enjoy free WiFi, ensuring connectivity during their stay. The apartment also features a bathroom with modern amenities.
+
+Prime Location: Located about 53 miles from Beauvais–Tillé Airport, the apartment is a short walk from Notre-Dame Cathedral (13 minutes) and Rouen Rive Droite Station (less than 0.6 miles). Nearby attractions include the Rouen Museum of Fine Arts (a nine-minute walk) and an ice-skating rink.",https://www.booking.com/hotel/fr/le-petit-rouen-rouen.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4473937,1.0847565
+14,5,Novotel Rouen Centre Cathédrale,8.5,"Comfortable Accommodations: Rooms feature air conditioning, private bathrooms, and modern amenities such as free WiFi, flat-screen TVs, and soundproofing. Additional comforts include bathrobes, minibars, and river views.
+
+Dining Experience: The family-friendly restaurant serves Italian cuisine with vegetarian options. Guests can enjoy lunch, dinner, and high tea in a welcoming atmosphere. A buffet breakfast includes local specialties, warm dishes, fresh pastries, and more.
+
+Leisure Facilities: The hotel offers a fitness center, indoor swimming pool, and a bar. Additional amenities include a coffee shop, family rooms, and free WiFi in public areas.
+
+Prime Location: Located in downtown Rouen, the hotel is a five-minute walk from Notre-Dame Cathedral and near attractions such as the Museum of Fine Arts of Rouen. Beauvais–Tillé Airport is about 52 miles away. Surrounding activities include ice skating and boating.",https://www.booking.com/hotel/fr/novotel-rouen-centre-cathedrale.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.4388505,1.0899553
+15,5,Joli appart cosy tout confort avec parking gratuit,9.4,"Comfortable Living Space: Joli appart cozy tout confort avec parking gratuit in Rouen offers a one-bedroom apartment with a sun terrace and free WiFi. The property includes a kitchenette, dining area, and parquet floors.
+
+Modern Amenities: Guests can enjoy a terrace, outdoor seating area, and free on-site private parking. The apartment features a work desk, TV, and a quiet street view.
+
+Prime Location: Located 14 minutes from Gare de Rouen Rive Droite and 0.9 mi from Noter-Dame Cathedral of Rouen. Nearby attractions include Musee des Beaux-Arts de Rouen and Rouen Kindarena Sports Hall. Beauvais–Tillé Airport is 52 mi away.
+
+Local Activities: The surrounding area offers an ice-skating rink and boating opportunities.",https://www.booking.com/hotel/fr/joli-appart-cosy-tout-confort-avec-parking-gratuit.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4508483235437,1.10450794267512
+16,5,Rouen Hyper Centre Cathédrale Hotel de ville,8.4,"Prime Location: Rouen Hyper Centre Cathédrale Hotel de ville in Rouen offers a city center location with a view of Notre-Dame Cathedral, just a six-minute walk away. Rouen Rive Droite Station is about 0.7 miles nearby, while the Rouen Museum of Fine Arts is a seven-minute walk.
+
+Comfortable Facilities: Guests enjoy free WiFi in public areas, a shared kitchen, and a dining area. The property includes a kitchenette, washing machine, and a work desk. Additional amenities include a refrigerator, electric kettle, and hardwood floors.
+
+Nearby Attractions: The hotel is close to Voltaire Station (about 2 miles), Rouen Kindarena Sports Hall (about 2.4 miles), and an ice-skating rink. Boating is available in the surrounding area. Beauvais–Tillé Airport is about 51 miles away.
+
+Guest Favorites: Guests appreciate the location with a view, the friendly host, and the well-equipped kitchen.",https://www.booking.com/hotel/fr/rouen-hyper-centre-cathedrale-de-ville.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.441853,1.0983651
+17,5,Mercure Rouen Centre Cathédrale,8.5,"This Mercure is located in central Rouen, 525 feet from Noter Dame Cathedral and 1.9 mi from Kindarena Stadium. It offers air-conditioned guest rooms, each with a private bathroom, satellite TV and free WiFi access.
+
+The Mercure Rouen Center Cathédrale serves a full breakfast, which can be enjoyed in the comfort of your room and an express breakfast option. Guests can also enjoy a drink in the hotel bar.
+
+The Place du Vieux Marché (the old market) and the Gros Horloge are within easy walking distance of the Mercure Rouen Center. Rouen Train Station is located just 0.6 mi away and underground, private parking is available on site.",https://www.booking.com/hotel/fr/mercure-rouen-centre.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from_sustainable_property_sr=1&from=searchresults,Rouen,49.44117284656542,1.0951754450798037
+18,5,KYRIAD ROUEN SUD - Sotteville les Rouen,8.0,"Comfortable Accommodations: KYRIAD ROUEN SUD - Sotteville les Rouen in Rouen offers family rooms with air conditioning, private bathrooms, and free WiFi. Each room includes a walk-in shower, TV, and wardrobe.
+
+Convenient Facilities: Guests benefit from private check-in and check-out, an elevator, 24-hour front desk, daily housekeeping, and free on-site parking. Additional services include bicycle parking, express check-in and check-out, and luggage storage.
+
+Delicious Breakfast: A continental buffet breakfast is served with juice, fresh pastries, cheese, and fruits. Guests appreciate the cleanliness and comfort of the rooms.
+
+Prime Location: Located about 52 miles from Beauvais–Tillé Airport, the hotel is near attractions such as Notre-Dame Cathedral (about 2.6 miles) and Rouen Expo (about 3.7 miles). The surroundings offer ice skating and boating.",https://www.booking.com/hotel/fr/kyriad-rouen-sud.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.421793,1.106844
+19,5,Le Petit Horloge,9.3,"Central Location: Le Petit Horloge in Rouen offers a central setting with Noter-Dame Cathedral just a few steps away. Gare de Rouen Rive Droite is a 13-minute walk, while Musee des Beaux-Arts de Rouen lies 1640 feet nearby.
+
+Comfortable Amenities: Guests enjoy a sun terrace and free WiFi. The apartment features two bedrooms, a living room, and a balcony with city views. Additional amenities include a washing machine, kitchen, and private check-in and check-out services.
+
+Local Attractions: Nearby attractions include Voltaire Station at 1.9 mi and an ice-skating rink within 5 mi. Beauvais–Tillé Airport is 52 mi from the property.
+
+Guest Satisfaction: Highly rated by guests for its central location, convenient services, and friendly host.",https://www.booking.com/hotel/fr/le-petit-horloge-rouen.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4413794,1.0929714
+20,5,Bienvenue à LOlive votre écrin vert nature au cœur de Rouen,,"Modern Comforts: Bienvenue à LOlive offers a comfortable apartment in Rouen city center. Guests enjoy free WiFi, a washing machine, and a fully equipped kitchen with a coffee machine, microwave, and oven. The apartment includes a dining area with a table and chairs, a refrigerator, and a TV.
+
+Convenient Location: Located 4 minutes from Noter-Dame Cathedral and less than 0.6 mi from the Musée des Beaux-Arts, the apartment provides easy access to key attractions. Gare de Rouen Rive Droite is 0.9 mi away, while Deauville - Normandie Airport is 52 mi from the property.
+
+Exceptional Services: The apartment features a concierge service, ensuring guests receive assistance with their needs. Free toiletries, a hairdryer, and a shower enhance the stay.",https://www.booking.com/hotel/fr/bienvenue-a-lolive-votre-ecrin-vert-nature-au-coeur-de-rouen.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9yb3VlbiwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr1JTUBsACAdICJDg4NGE0MjYzLTQzOGYtNDUzMy1iMTEzLTUzNzZlNDM5Y2I4Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=33df1c15eae80044&srepoch=1787111981&from=searchresults,Rouen,49.4401324,1.0979845
+21,6,Hotel Trianon Rive Gauche,8.3,"The hotel offers tastefully decorated rooms, right next to the Jardin du Luxembourg and 0.9 mi from Noter-Dame Cathedral.
+
+All of the rooms at Trianon Rive Gauche have flat-screen TV with satellite channels and free WiFi access. They also have a private bathrooms with a shower or bath, or both a shower and a bath.
+
+The hotel is 1476 feet from Odeon Metro Station, which provides access to the Clignancourt flea market. Luxembourg RER Station is 1476 feet away, providing access to Charles de Gaulle Airport.",https://www.booking.com/hotel/fr/trianon-rive-gauche.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from_sustainable_property_sr=1&from=searchresults,Paris,48.84885326239485,2.340909987688065
+22,6,Le Penthouse Bourdonnais L,,"Prime City Center Location: Le Penthouse Bourdonnais L is located in Paris city center, offering easy access to key attractions. The Eiffel Tower is a 9-minute walk away, while the Rodin Museum lies 0.8 mi nearby.
+
+Comfortable Living Spaces: The apartment features one bedroom, one bathroom, and a spacious living room. Guests can enjoy a fully equipped kitchen with modern appliances, a washing machine, and a dining area.
+
+Convenient Facilities: Free WiFi is available throughout the property. Additional amenities include a elevator, full-day security, and a view of a landmark. Reception staff speak English and French.
+
+Nearby Attractions: Other points of interest include the Louver Museum (2.4 mi), Arc de Triomphe (1.7 mi), and Orly Airport (9.9 mi). Boating opportunities are available in the surrounding area.",https://www.booking.com/hotel/fr/le-penthouse-bourdonnais-l.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.8566373,2.3021448
+23,6,Charmant studio au cœur du 12ᵉ arrondissement,,"Comfortable Living Space: Charmant studio au cœur du 12ème arrondissement in Paris offers a ground-floor apartment with one bedroom and one bathroom. The property includes a fully equipped kitchen with a coffee machine, refrigerator, electric kettle, and wardrobe.
+
+Essential Amenities: Guests enjoy free WiFi, a shower, and a TV. The ground-floor unit provides easy access and a pleasant environment.
+
+Prime Location: Located 12 minutes from Opéra Bastille and 0.6 mi from Paris-Gare-de-Lyon, the apartment is close to Noter Dame Cathedral (2.2 mi) and Sainte-Chapelle (2.4 mi). Paris Orly Airport is 9.3 mi away.",https://www.booking.com/hotel/fr/charmant-studio-au-coeur-du-12-arrondissement.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.849326,2.380268
+24,6,Sunny Bastille-Roquette Paris,8.3,"Modern Comforts: Sunny Bastille-Roquette Paris offers a comfortable apartment in Paris. Guests enjoy free WiFi, a elevator, and parking facilities. The property is adults-only, ensuring a peaceful stay.
+
+Convenient Facilities: The apartment features a washing machine, fully equipped kitchen, and a private bathroom. Additional amenities include a washing machine and a fully equipped kitchen.
+
+Prime Location: Located 12 mi from Paris Orly Airport, the property is a short walk from Opéra Bastille (14 minutes) and Paris-Gare-de-Lyon (1.2 mi). Nearby attractions include Pompidou Center (1.9 mi) and Noter Dame Cathedral (2.4 mi).
+
+Local Activities: Guests can enjoy an ice-skating rink and boating in the surrounding area.",https://www.booking.com/hotel/fr/sunny-bastille-roquette-paris.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.8583812,2.3825183
+25,6,PARIS RIVOLI NOTRE DAME Chambre d'Hôtes Studio Private,8.9,"Prime City Centre Location: PARIS RIVOLI NOTRE DAME Chambre d'Hôtes Studio Private in Paris offers a convenient location with Notre Dame Cathedral a 12-minute walk away, the Louvre Museum an 18-minute stroll, and Sainte-Chapelle about 0.6 miles nearby.
+
+Comfortable Accommodations: The adults-only bed and breakfast features air conditioning, a kitchenette, a balcony with city views, and a private bathroom. Guests enjoy free WiFi, streaming services, and a washing machine.
+
+Convenient Facilities: The property provides an elevator, electric vehicle charging station, full-day security, and bike rentals. Additional amenities include a dining area, work desk, and access to the executive lounge.
+
+Nearby Attractions: Other attractions include Luxembourg Gardens about 1.2 miles away, Pompidou Centre a 9-minute walk, and Paris-Orly Airport about 10.5 miles from the property.",https://www.booking.com/hotel/fr/paris-rivoli-notre-dame.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.85588,2.356515
+26,6,Ibis Styles Paris Batignolles,8.4,"This hotel is just a 1-minute walk from Brochant Metro Station and 2789 feet from the lively Place de Clichy. It offers a breakfast room with an arched ceiling and a 24-hour reception.
+
+A TV is a standard facility in the rooms at  Ibis Styles Paris Batignolles Each is decorated in yellow and orange tones and also has a private bathroom with a hairdryer.
+
+The underground breakfast room offers a buffet every morning. Additional facilities include Wi-Fi access in the reception.
+
+Private parking is available nearby and the hotel also has a car rental service. Sights such as Avenue Champs Elysées and Hôtel des Invalides can be accessed directly using public transport.",https://www.booking.com/hotel/fr/mirific.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.88985257129384,2.321208715384273
+27,6,Hilton Paris Opera,7.5,"Hilton Paris Opera is a luxurious hotel located in the heart of Paris, just 2625 feet from the Opéra Garnier. You you can enjoy cocktails in Le Grand Salon bar or the lip-smacking “street food” style cuisine, by Chef Mathieu Afonso at the Quai 108 restaurant.
+
+Designed in a classic Parisian style, the air-conditioned rooms have a mini-bar, USB port and a flat-screen TV. Free WiFi is provided in all rooms, and some rooms also include bathrobes and slippers. The private bathroom has heated flooring.
+
+Breakfast is served daily at the property. Guests can also access the Executive Lounge, which offers complimentary refreshments, newspapers and WiFi for an additional cost.
+
+Hilton Paris Opera features a fitness center, a 24-hour front desk and meeting rooms.
+
+Saint Lazare Train and Metro Station is only 262 feet from this hotel, while the famous department stores Printemps and Galeries Lafayette are a 5-minute walk away.",https://www.booking.com/hotel/fr/hilton-paris-opera.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from_sustainable_property_sr=1&from=searchresults,Paris,48.875565910073085,2.3255234956741333
+28,6,Studio cosy Disney - Paris parking privé,,"Comfortable Living Space: Studio cozy Disney - Paris parking privé in Paris offers a one-bedroom apartment with a balcony. The property includes a washing machine, fully equipped kitchen, and TV.
+
+Essential Amenities: Guests enjoy free WiFi and free on-site private parking. The apartment provides a comfortable and convenient stay.
+
+Prime Location: Located 1.1 mi from Roland Garros Stadium, the apartment is close to Palais des Congrès de Paris (1.9 mi), Eiffel Tower (1.9 mi), and Paris Expo - Porte de Versailles (2.5 mi). Paris Orly Airport is 11 mi away.",https://www.booking.com/hotel/fr/studio-cosy-disney-paris-parking-prive.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.8566527,2.2638353
+29,6,"JOIVY Premium flats in the heart of the 9th arr, near Moulin Rouge",9.0,"Comfortable Accommodations: JOIVY Premium flats in the heart of Paris offer a comfortable apartment with a garden and free WiFi. Guests enjoy a fitness room, elevator, shared kitchen, and outdoor seating area.
+
+Modern Amenities: The apartment features a kitchenette, private bathroom, kitchen, hairdryer, outdoor furniture, and an outdoor dining area. Additional amenities include a sofa bed, sofa, and free toiletries.
+
+Prime Location: Located 3 minutes from Pigalle Metro Station and near attractions such as La Cigale Concert Hall (1312 feet) and Sacré-Coeur (less than 0.6 mi). Paris Orly Airport is 12 mi away.
+
+Local Activities: Guests can enjoy nearby ice-skating and boating. The surrounding area offers various activities for a memorable stay.",https://www.booking.com/hotel/fr/altido-pleasant-1-bed-flat-with-shared-courtyard.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.881602932819,2.335512841734
+30,6,Cozy studio in the heart of Paris,,"Comfortable Living Space: The Cozy studio in the heart of Paris offers a comfortable apartment with a private bathroom, kitchen, and TV. Guests enjoy free WiFi throughout the property.
+
+Modern Amenities: The apartment includes a hairdryer, coffee machine, refrigerator, microwave, kitchenware, and a TV. These facilities ensure a pleasant and convenient stay.
+
+Convenient Location: Located in Paris, the property is 11 mi from Paris - Orly Airport. Nearby attractions include an ice-skating rink and boating opportunities. Reception staff speak English and French.",https://www.booking.com/hotel/fr/cozy-studio-in-the-heart-of-paris-paris8.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.874097,2.341842
+31,6,Le Charme Alsacien,9.2,"Spacious Accommodations: Le Charme Alsacien in Paris offers a spacious apartment with two bedrooms and a bathroom. The property features a balcony with city views, a fully equipped kitchen, and a comfortable living area.
+
+Modern Amenities: Guests enjoy free WiFi, air-conditioning, and a lounge. Additional facilities include a shared kitchen, daily housekeeping, family rooms, and a paid shuttle service.
+
+Prime Location: Located 18 minutes from the Rodin Museum and 1.6 mi from the d'Orsay Museum and Eiffel Tower, the apartment is 9.3 mi from Paris Orly Airport. Nearby attractions include Luxembourg Gardens and the Louver Museum.
+
+Local Activities: An ice-skating rink is located in the surrounding area, providing leisure options for visitors.",https://www.booking.com/hotel/fr/le-charme-alsacien.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.8449583185492,2.31019600395421
+32,6,BnBNova - 1BR - Canal Saint - Martin,,"Comfortable Living: BnBNova - 1BR - Canal Saint - Martin in Paris offers a one-bedroom apartment with a living room. The property features family rooms, parquet floors, and a dining area.
+
+Modern Amenities: Guests enjoy free WiFi, a washing machine, and a fully equipped kitchen with a coffee machine, microwave, and dishwasher. Additional amenities include a work desk, sofa bed, and free toiletries.
+
+Prime Location: Located less than 0.6 mi from Gare du Nord, the apartment is close to attractions such as Opéra Garnier (1.7 mi) and Sainte-Chapelle (2 mi). Paris Orly Airport is 9.9 mi away.",https://www.booking.com/hotel/fr/cozy-1br-by-canal-saint-martin-central-paris-paris1.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.87198859999999,2.3581246
+33,6,Balcony Eiffel Tower View Newly Refurbished Apt,,"Modern Comforts: Balcony Eiffel Tower View Newly Refurbished Apt in Paris offers free WiFi and a elevator. The apartment includes air-conditioning, a washing machine, and a fully equipped kitchen with a refrigerator, oven, stovetop, toaster, electric kettle, and kitchenware.
+
+Convenient Amenities: Guests can enjoy a shower, free toiletries, hairdryer, and TV. The property features a tea and coffee maker, ensuring a comfortable stay.
+
+Prime Location: Located 1.5 mi from the Eiffel Tower and 16-minute walk to Paris Expo - Porte de Versailles. Nearby attractions include Rodin Museum (1.7 mi), d'Orsay Museum (2.3 mi), and Montparnasse Tower (1.8 mi). Paris Orly Airport is 9.3 mi away.",https://www.booking.com/hotel/fr/balcony-eiffel-tower-view-newly-refurbished-apt.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.84281062,2.2920264
+34,6,Mercure Tour Eiffel Grenelle,8.2,"Mercure Tour Eiffel Grenelle is located in Paris’ 15th district, just 10 minutes’ walk from the Eiffel Tower. It offers a bar, a patio, a fitness room and a sauna. Some rooms have views of the Eiffel Tower.
+
+The air-conditioned guest rooms at the Mercure Tour Eiffel Grenelle have a flat-screen TV and a safety deposit box. Each room has a private bathroom with bathtub and hairdryer. Free WiFi access is provided.
+
+The hotel offers a buffet breakfast every morning and room service.
+
+Dupleix Metro station is 98 feet from the hotel and provides connections to the Montparnasse Tower, the Galeries Lafayette and the Arc de Triomphe. The Musée du quai Branly is 1 mi from Mercure Tour Eiffel Grenelle.
+
+PLEASE NOTE THAT THE ELEVATOR WILL BE OUT OF SERVICE FROM JULY 20 TO AUGUST 28.",https://www.booking.com/hotel/fr/toureiffelparis.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from_sustainable_property_sr=1&from=searchresults,Paris,48.85051235502713,2.2926490008831024
+35,6,Hotel Cluny Square,8.4,"In the lively Latin Quarter, this hotel offers elegant guest rooms equipped with a TV, some with a balcony.  It is 120 yards from Cluny - La Sorbonne Metro and RER B Station.
+
+All soundproofed guest rooms feature a minibar and a refined décor. Some have views of the park or the Eiffel Tower. Private bathrooms include a bathtub or shower, towel dryer and hairdryer.
+
+A buffet breakfast is served daily from 7 am until 11 am in the lounge area at Cluny Square hotel. After breakfast, guests can use the free Wi-Fi access, which is provided throughout the property.
+
+With a 24-hour front desk, Cluny Square hotel also provides a ticket service and dry cleaning.
+
+Luxembourg Garden is less than a quarter mile from the hotel and Notre-Dame Cathedral is a 7-minute walk away.",https://www.booking.com/hotel/fr/clunysquareparis.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.85148395768776,2.343434616923332
+36,6,Studio moderne & calme idéal pour mobilité et télétravail,,"Modern Comforts: Studio moderne & calme idéal pour mobilité et télétravail in Paris offers free WiFi, a washing machine, and a fully equipped kitchen. A TV provides entertainment for guests.
+
+Convenient Location: Located 2 mi from Opéra Bastille, 3.1 mi from Gare du Nord and Sainte-Chapelle, and 3.7 mi from Opéra Garnier and d'Orsay Museum. Paris Orly Airport is 9.9 mi away.
+
+Local Attractions: Nearby points include Place des Vosges (2.2 mi), La Cité des Sciences et de l'Industrie de la Villette (3.7 mi), and the Eiffel Tower (5.6 mi).",https://www.booking.com/hotel/fr/studio-moderne-amp-calme-ideal-pour-mobilite-et-teletravail.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.8551419,2.3992799
+37,6,Hôtel Botaniste,8.6,"Elegant Accommodation: Hôtel Botaniste in Paris offers a four-star experience with a sun terrace, garden, bar, and free WiFi. Guests enjoy air conditioning, private bathrooms, and garden views.
+
+Comfortable Amenities: The hotel features an elevator, 24-hour front desk, concierge service, and family rooms. Additional amenities include a child-friendly buffet, outdoor seating area, picnic area, and full-day security.
+
+Delicious Breakfast: A variety of breakfast options are available, including continental, buffet, and gluten-free. Guests can enjoy juice, cheese, and fruits each morning.
+
+Prime Location: Located 14 minutes from Parc des Princes and about 14 miles from Paris Orly Airport, the hotel is near attractions such as the Eiffel Tower and Arc de Triomphe. An ice-skating rink is also nearby.",https://www.booking.com/hotel/fr/botaniste.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.844839,2.264669
+38,6,Top Floor Parisian Gem Views & Balcony,9.1,"Modern Comforts: Top Floor Parisian Gem Views & Balcony in Paris offers free WiFi, a washing machine, and a fully equipped kitchen with a tea and coffee maker. The apartment includes a dining table, TV, and free toiletries.
+
+Convenient Location: Located 13 minutes from the Arc de Triomphe and 0.7 mi from Palais des Congrès de Paris. Nearby attractions include Gare Saint-Lazare (1.6 mi), Musée de l'Orangerie (2 mi), and the Eiffel Tower (2.1 mi). Paris Orly Airport is 12 mi away.
+
+Local Activities: Guests can enjoy an ice-skating rink in the surrounding area.",https://www.booking.com/hotel/fr/top-floor-parisian-gem-views-balcony.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.88211159999999,2.296698
+39,6,Hilton Garden Inn Paris La Villette,8.4,"Comfortable Accommodations: Hilton Garden Inn Paris La Villette in Paris offers comfortable rooms with air conditioning, free WiFi, and modern amenities. Guests enjoy private check-in and check-out, family rooms, and interconnected rooms.
+
+Dining and Leisure: The hotel features a terrace, restaurant, and bar. Breakfast options include continental, American, buffet, vegetarian, and gluten-free. Dining options include lunch and dinner. Additional facilities include a fitness room, outdoor seating area, and bicycle parking.
+
+Prime Location: Located about 2 miles from Gare de l'Est and around 9 miles from Paris Charles de Gaulle Airport, the hotel is near attractions such as La Cigale Concert Hall and the Pompidou Centre. An ice-skating rink is nearby. Highly rated for room comfort and excellent service.",https://www.booking.com/hotel/fr/hilton-garden-inn-paris-la-villette.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from_sustainable_property_sr=1&from=searchresults,Paris,48.8963,2.383245
+40,6,Hotel Abbatial Saint Germain,8.8,"Located in the Parisian Latin Quarter, Hotel Abbatial offers ensuite accommodations. It is just 1640 feet from the Noter Dame Cathedral and is close to Ile Saint Louis.
+
+All the rooms at Hotel Abbatial are air-conditioned. They come with a satellite TV, a mini-bar and free Wi-Fi access.
+
+Every morning a daily buffet breakfast is served. Guests can enjoy this in the dining room or in the comfort of their own room.
+
+The metro station Maubert Mutualite is 656 feet from the hotel providing good access to the city’s top tourist attractions.",https://www.booking.com/hotel/fr/abbatial-st-germain.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKy1JTUBsACAdICJDQ4NGYyZWM2LWU0YzAtNDdmNy05NmMzLWM0MWFmOTM5Mzk0Y9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=11a51c19e7e9008d&srepoch=1787111990&from=searchresults,Paris,48.84969517052631,2.350545823574066
+41,35,ibis budget La Rochelle Centre les Minimes,7.7,"Hôtel Eco La Rochelle Center les Minimes is located 1640 feet from the Vieux Port and 1.2 mi from Minimes Beach. It offers free Wi-Fi access, a 24-hour reception and private parking at a fee.
+
+The rooms at Hôtel Eco La Rochelle Center les Minimes are decorated in a contemporary style and include a flat-screen TV with satellite channels. The private bathroom is complete with a shower.
+
+After enjoying the buffet breakfast, you can visit La Rochelle’s historical district, which is 1.2 mi away. La Rochelle Airport is 6.8 mi away and both the aquarium and convention center are 0.6 mi from the property.",https://www.booking.com/hotel/fr/premia-re-classe-la-rochelle-centre-les-minimes.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.14702834178295,-1.1530846600494442
+42,35,Sweetly La Rochelle,8.6,"Comfortable Accommodations: Sweetly La Rochelle in La Rochelle offers aparthotel-style accommodations with kitchenettes, private bathrooms, and balconies. Each unit includes a tea and coffee maker, refrigerator, microwave, and TV.
+
+Exceptional Facilities: Guests can enjoy a rooftop swimming pool, sauna, and terrace. Additional amenities include a lounge, games room, outdoor seating area, and free WiFi.
+
+Prime Location: Located 1.1 mi from Concurrence Beach and near attractions such as L'Espace Encan and La Rochelle Train Station. La Rochelle Airport is 5.6 mi away.",https://www.booking.com/hotel/fr/sweetly-la-rochelle.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.1480762,-1.1578885
+43,35,B&B HOTEL La Rochelle Centre 3 étoiles,8.2,"Set in the La Rochelle City Center district in La Rochelle, 1640 feet from Parc Expo de La Rochelle, B&B HOTEL La Rochelle Center features air-conditioned rooms with free WiFi. Private and secure parking is available on site at an extra cost.
+
+Rooms come with a flat-screen TV. Each room is equipped with a private bathroom equipped with a shower.
+
+You will find a 24-hour front desk at the property.
+
+L'Espace Encan is 1969 feet from B&B HOTEL La Rochelle Center, while La Rochelle Grosse Cloche is 2625 feet from the property. The nearest airport is La Rochelle - Ile de Re Airport, 2.5 mi from the property.",https://www.booking.com/hotel/fr/b-amp-b-la-rochelle-centre.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from_sustainable_property_sr=1&from=searchresults,La Rochelle,46.15450177174464,-1.144671639564535
+44,35,Auberge de Jeunesse,8.0,"Auberge de Jeunesse provides accommodations in La Rochelle near L'Espace Encan and The Minimes Marina. Located around 1.4 mi from Parc Expo de La Rochelle, the hostel is also 1.1 mi away from La Rochelle Grosse Cloche. The property is located an 11-minute walk from La Rochelle University and 0.9 mi from La Rochelle Aquarium.
+
+All rooms are equipped with a private bathroom. Guests can be accommodated in a private cabin or in a dormitory room.
+
+A continental or buffet breakfast can be enjoyed at the property.
+
+Geneviève Lethu is 1.2 mi from the hostel, while La Rochelle Town Hall is 1.2 mi away. La Rochelle - Ile de Re Airport is 2.5 mi from the property.",https://www.booking.com/hotel/fr/auberge-de-jeunesse-la-rochelle.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.143788,-1.162168
+45,35,Pleasant studio in La Rochelle,,"Prime City Center Location: Pleasant studio in La Rochelle is located in the city center, offering easy access to key attractions. Concurrence Beach is a 16-minute walk away, while L'Espace Encan lies 1640 feet nearby. La Rochelle Train Station is less than 0.6 mi from the apartment.
+
+Comfortable Amenities: Guests enjoy free WiFi, a elevator, and a balcony with city views. The apartment features a private bathroom, kitchen, and dining area. Additional amenities include a sofa bed, coffee machine, refrigerator, microwave, and kitchenware.
+
+Nearby Attractions: Nearby points of interest include La Rochelle Grosse Horloge (less than 0.6 mi), Tour Saint-Nicolas (1312 feet), and Hôtel de la Bourse (14-minute walk). The Muséum d'Histoire Naturelle de La Rochelle is 1.1 mi away, while Concurrence Beach offers a 15-minute walk.",https://www.booking.com/hotel/fr/pleasant-studio-in-voisins-le-bretonneux.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.153064,-1.154222
+46,35,ibis Budget La Rochelle Centre gare,8.3,"Comfortable Accommodations: Rooms feature air conditioning, private bathrooms with showers, TVs, soundproofing, and wardrobes. Balconies offer relaxing outdoor spaces.
+
+Exceptional Facilities: Guests enjoy a sun terrace, bar, seasonal outdoor swimming pool, and free WiFi. Additional amenities include a lounge, elevator, 24-hour front desk, daily housekeeping, and bicycle parking.
+
+Delicious Breakfast: A continental buffet breakfast is served with juice, fresh pastries, cheese, and fruits. Private check-in and check-out services ensure a smooth arrival and departure.
+
+Prime Location: Located in La Rochelle, the hotel is about 1 mile from Concurrence Beach and around 4 miles from La Rochelle - Ile de Re Airport. Nearby attractions include La Rochelle Train Station and Saint-Sauveur Church.",https://www.booking.com/hotel/fr/ibis-budget-la-rochelle-centre-la-rochelle.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.157612347442985,-1.1403863916015688
+47,35,B&B HOTEL La Rochelle Centre Les Minimes,8.1,"""NEW ROOMS!!!""
+
+The team of the B&B HOTEL La Rochelle Center Les Minimes welcomes you 24/7 in our hotel with secure pay parking, a 10-minute walk from the SNCF train station and the city center.
+
+
+Many other activities are close to our establishment, including the Aquarium de la Rochelle (2625 ft away), where more than 12,000 marine animals live, and the Maritime Museum (1312 ft away).",https://www.booking.com/hotel/fr/altica-la-rochelle.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from_sustainable_property_sr=1&from=searchresults,La Rochelle,46.14717566269079,-1.1527222394943235
+48,35,Mercure La Rochelle Vieux Port,8.9,"Entirely renovated, the Mercure La Rochelle Vieux-Port hotel welcomes you for business or leisure stays.
+To relax, our hotel in La Rochelle offers a swimming pool with a large terrace, a bar and a panoramic restaurant, the Gaée, with a view of the old port and the towers of La Rochelle.
+Here you can enjoy a tasty breakfast and discover an innovative menu that highlights the products of our maritime region, subtly combining fresh and local produce.
+
+Free Wi-Fi and private parking (at an additional cost) are available at the hotel and reception is open 24 hours a day. La Rochelle train station is a 2-minute walk away and the aquarium is just opposite the property.",https://www.booking.com/hotel/fr/la-rochelle-vieux-port-sud.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from_sustainable_property_sr=1&from=searchresults,La Rochelle,46.15365316439305,-1.1496511101722715
+49,35,ibis Styles La Rochelle Centre Vieux Port,8.3,"The ibis Styles La Rochelle Center is located in the heart of La Rochelle, 984 feet from the beach Plage de la Concurrence. It offers 24-hour reception, a bar, a elevator and free Wi-Fi throughout.
+
+The air-conditioned rooms at ibis Styles La Rochelle Center feature a flat-screen TV with satellite channels. The private bathrooms are complete with a bath tub or shower and free toiletries.
+
+The buffet breakfast is available daily and includes fresh French pastries, fair trade coffee, fruit juices. Snacks are available 24 hours a day.
+
+Boats to the Ile d’Aix and Ile de Ré are 328 feet from the property, and public parking is available 1312 feet away with a supplement.",https://www.booking.com/hotel/fr/ibis-la-rochelle-centre.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.15801589993504,-1.1539718239425838
+50,35,Novotel La Rochelle Centre,8.4,"This Novotel Hotel is located a 10-minute walk from La Rochelle's Old Town. It offers an outdoor swimming pool and soundproofed accommodations.
+
+Guest rooms at the Novotel La Rochelle Center are equipped with air conditioning and free WiFi. Each room has a flat-screen TV.
+
+The restaurant at La Rochelle Center serves regional cuisine and there is a café with a garden terrace. Guests are also invited to relax in the hotel bar.
+
+The Rochelle Center provides free private parking and is an ideal base for exploring the city. The Old Port is just a 10-minute walk away.",https://www.booking.com/hotel/fr/la-rochelle-centre.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from_sustainable_property_sr=1&from=searchresults,La Rochelle,46.161434077501134,-1.1584755778312683
+51,35,VILLA AU COEUR DE LA ROCHELLE - 10min du Centre-ville et de la gare - Piscine - 4 chambres 8 personnes,,"Modern Comforts: VILLA AU COEUR DE LA ROCHELLE in La Rochelle offers four bedrooms and three bathrooms. Guests enjoy a fully equipped kitchen, washing machine, and free WiFi. The property includes a terrace, heated pool, and a seasonal outdoor swimming pool.
+
+Outdoor Spaces: The villa features a garden and terrace, ideal for relaxation. Outdoor furniture and dining areas provide comfortable spaces for leisure.
+
+Prime Location: Located 17 minutes from La Rochelle Train Station and near attractions such as Parc des Expositions de la Rochelle (0.9 mi) and L'Espace Encan (1.2 mi). Concurrence Beach is 1.4 mi away, and La Rochelle Airport is 3.1 mi from the property.",https://www.booking.com/hotel/fr/villa-au-coeur-de-la-rochelle-10min-du-centre-ville-et-de-la-gare-piscine-4-cham.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.164314,-1.141753
+52,35,ibis Styles La Rochelle Centre les Minimes,8.5,"Located just 0.6 mi from La Rochelle Train Station, Hôtel Confort La Rochelle Center les Minimes offers a 24-hour reception, luggage storage and free Wi-Fi access throughout. The port and old town are only a 15-minute walk away.
+
+All rooms are air-conditioned and feature a flat-screen TV with satellite channels, a wardrobe, desk and tea and coffee making facilities. The private bathroom includes a hairdryer.
+
+A buffet breakfast is available each morning at Hôtel Confort La Rochelle Center les Minimes. Guests can also find traditional restaurants within walking distance.
+
+The aquarium is an 8-minute walk away and the Ile de Ré is a 30-minute drive from the hotel. Additional features include an elevator, nonsmoking rooms and private parking at a fee at a location nearby.",https://www.booking.com/hotel/fr/kyriad-la-rochelle-centre-les-minimes-xml.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.14630970825654,-1.1528939008712769
+53,35,Appart'City Classic La Rochelle Centre,7.6,"This Appart'city is a 10-minute walk from La Rochelle Train Station and 15 minutes from the Old Port and the Old Town. It offers contemporary accommodations with a seating area and an LCD TV.
+
+The apartments and studios at Appart'City Classic La Rochelle Centre have free WiFi internet access. Some offer a private balcony and all feature a kitchenette with a microwave and a fridge.
+
+A buffet breakfast is served at the residence and is composed of various breads, including gluten-free bread, pastries, fresh and hot beverages. Fresh fruit, as well as cheeses and yogurts are also provided. Guests can also buy drinks and snacks at the reception.
+
+Outdoor and underground parking is possible at Appart’city and La Rochelle Airport is a 15-minute drive away. Guests may also choose to visit Ile de Ré, which is just 9.3 mi away.",https://www.booking.com/hotel/fr/appart-city-cap-affaires-la-rochelle.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from_sustainable_property_sr=1&from=searchresults,La Rochelle,46.158446693708605,-1.1410117149353027
+54,35,Résidence Pierre & Vacances Centre,7.9,"Located in La Rochelle, this Pierre & Vacances residence is a 5-minute walk from the Old Harbor and 984 feet from the TGV Train Station. It has a heated indoor swimming pool and a terrace.
+
+The Pierre & Vacances Center offers studio apartments with a lounge area and a flat-screen TV. Each studio has a kitchenette equipped with a dishwasher, microwave and an electric coffee-maker.
+
+The residence is serviced by a elevator and facilities are available for guests with reduced mobility.
+
+Elevators are not accessible to people with reduced mobility. Our team is here to help you find the best alternative
+
+The Residence Pierre & Vacances Center is an ideal base for discovering La Rochelle and guests can enjoy a boat trip to the Île de Ré and Fort Boyard. The beach is a 15-minute walk from the hotel. Subject to availability, paid parking is available upon reservation and for an extra charge.
+
+Please note that the swimming pool is open from 09:00 until 19:00 daily.",https://www.booking.com/hotel/fr/pierre-vacances-centre.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from_sustainable_property_sr=1&from=searchresults,La Rochelle,46.15576942900863,-1.1463922262191772
+55,35,L'Escale Marine - Couette et Café,9.0,"Comfortable Accommodations: L'Escale Marine - Couette et Café in La Rochelle offers a bed and breakfast with a sun terrace, garden, and free WiFi. Guests enjoy garden views and a quiet street setting.
+
+Modern Amenities: The property features a shared kitchen, outdoor seating area, and picnic area. Each room includes a kitchenette, private bathroom, and parquet floors. Additional amenities include a work desk, TV, and free toiletries.
+
+Prime Location: Located 1.2 mi from Concurrence Beach and 1.9 mi from La Rochelle Airport, the bed and breakfast is near attractions such as La Rochelle Cathedral (18-minute walk) and the Minimes Marina (4.3 mi). Highly rated for its friendly host, delicious breakfast, and convenient location.",https://www.booking.com/hotel/fr/couette-et-cafe.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.16969684151978,-1.1618846654891968
+56,35,Hôtel Kyriad La Rochelle Centre Ville,8.5,"Located just 0.6 mi from the old harbor and the train station of La Rochelle, Hôtel Kyriad La Rochelle Center Ville welcomes you in a modern setting.
+
+Hôtel Kyriad La Rochelle Center Ville offers 45 fully-equipped rooms, including 2 rooms for disabled guests. Each room comes with all the modern comfort and satellite television.
+
+For your convenience, Hôtel Kyriad La Rochelle Center Ville provides an enclosed car park, our parking is extra and by reservation and WiFi Internet access.
+
+Enjoy the comfort of a 3-star hotel where everything is designed for both a relaxing and satisfying business stay.",https://www.booking.com/hotel/fr/kyriad-la-rochelle-centre.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.15779643320449,-1.1383187770843506
+57,35,Chez Alma,8.8,"Modern Comforts: Chez Alma in La Rochelle offers a sun terrace and free WiFi. The apartment features air-conditioning, a terrace, and a kitchenette equipped with a coffee machine, microwave, and stovetop.
+
+Convenient Facilities: Guests benefit from private check-in and check-out services, family rooms, and a work desk. Additional amenities include a dining area, sofa bed, and soundproofing.
+
+Prime Location: Located less than 0.6 mi from Concurrence Beach and near attractions such as La Rochelle Cathedral (1312 feet) and La Rochelle Grosse Horloge (1640 feet). La Rochelle Train Station is a 16-minute walk away.
+
+Guest Satisfaction: Highly rated by guests for its excellent facilities and central location.",https://www.booking.com/hotel/fr/chez-alma.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.159632,-1.1558449
+58,35,Résidence avec Piscine face au port 200m plage,8.0,"Beachfront Location: Résidence avec Piscine face au port 200m plage in La Rochelle offers direct beachfront access and stunning sea views. Guests can relax on the sun terrace or in the seasonal outdoor swimming pool.
+
+Comfortable Accommodations: Each condo hotel unit features a kitchenette, private bathroom, and free WiFi. Additional amenities include a balcony, terrace, and garden views.
+
+Convenient Facilities: The condo hotel provides an elevator, outdoor seating area, full-day security, bicycle parking, and luggage storage. Paid on-site private parking is available.
+
+Nearby Attractions: Minimes is a five-minute walk away, while L'Espace Encan is about 1.2 miles from the property. The La Rochelle Train Station is around 1.7 miles distant.",https://www.booking.com/hotel/fr/residence-du-port.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.14068996476348,-1.1661601063315177
+59,35,Location LA REBELLE - LA ROCHELLE B,8.9,"Comfortable Living: Location LA REBELLE - LA ROCHELLE B in La Rochelle offers a one-bedroom apartment with a terrace and free WiFi. The property includes air-conditioning, a fully equipped kitchen, washing machine, and a living room with a sofa bed.
+
+Convenient Facilities: Guests benefit from free on-site private parking, an electric vehicle charging station, and bicycle parking. Additional amenities include a dining area, outdoor furniture, and a walk-in shower.
+
+Prime Location: Located 1.1 mi from La Rochelle Grosse Horloge and 1.6 mi from Concurrence Beach, the apartment is near attractions such as the Jardin des Plantes and Parc des Expositions de la Rochelle. La Rochelle - Ile de Re Airport is 3.1 mi away.
+
+Guest Satisfaction: Highly rated for its convenient location, room cleanliness, and the location of the property.",https://www.booking.com/hotel/fr/location-la-rebelle-la-rochelle-b.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from=searchresults,La Rochelle,46.168208291031,-1.138887272353
+60,35,Maisons du Monde Hôtel & Suites - La Rochelle Vieux Port,8.6,"Maisons du Monde Hôtel & Suites - La Rochelle Vieux Port is located in La Rochelle on the harbor. It offers free WiFi throughout the entire hotel.
+
+Maisons du Monde Hôtel & Suites - La Rochelle Vieux Port is close to many restaurants and is a short walk to the historic district, the beach and the attractions of La Rochelle. From here it is easy to access the island of Ré and Oléron.
+
+It offers comfortable rooms with air-conditioning, private bathrooms and flat-screen TV with Canal+ and Eurosport.
+
+Breakfast is be served from 07:00 to 11:00 on Saturday and Sunday and from 06:00 until 10:30 from Monday to Friday.
+
+Please note that when booking more than 5 rooms, different policies and additional supplements may apply .",https://www.booking.com/hotel/fr/inter-saint-jean-d-acre.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK81JTUBsACAdICJGMxZWJmMGI4LTg1M2MtNGU1Mi04ZTY4LTcxNDQ3MWJhOTU0N9gCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=89ab1c1e78d0027b&srepoch=1787111999&from_sustainable_property_sr=1&from=searchresults,La Rochelle,46.15619304375638,-1.1544348299503326
+61,7,Ibis Budget Amiens Centre Gare,8.3,"Ibis Budget Amiens Center Gare is set in Amiens city center, a 5-minute walk from Amiens Train Station and a 15-minute walk from Noter-Dame of Amiens Cathedral. Free WiFi is provided.
+
+All rooms have air conditioning, a flat-screen TV and a private bathroom fitted with a shower.
+
+A buffet breakfast can en enjoyed every morning.
+
+The nearest airport is Paris Beauvais-Tille Airport, 31 mi from the hotel.",https://www.booking.com/hotel/fr/ibis-budget-amiens-centre-gare.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from_sustainable_property_sr=1&from=searchresults,Amiens,49.891591,2.313573
+62,7,ibis Styles Amiens Sud,8.5,"Comfortable Accommodations: The ibis Styles Amiens Sud in Amiens offers family rooms with modern amenities. Each room includes a bathroom with free toiletries, ensuring a pleasant stay.
+
+Dining and Leisure: Guests can enjoy a family-friendly modern restaurant serving French cuisine. A bar provides a relaxing atmosphere for guests. Free WiFi is available throughout the property.
+
+Convenient Facilities: The hotel features a garden, elevator, 24-hour front desk, and free on-site private parking. Additional services include bicycle parking, express check-in and check-out, and daily housekeeping.
+
+Prime Location: Located about 38 miles from Beauvais–Tillé Airport, the hotel is a six-minute walk from the University of Picardie Jules Verne. Nearby attractions include Zénith d'Amiens (about 2 miles) and Amiens Train Station (about 2.4 miles).",https://www.booking.com/hotel/fr/the-originals-boutique-amiens-sud-chu-amiens.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.879612824182246,2.266651015808119
+63,7,Ginkgo Maison d'hôtes,9.3,"Historic Setting: Ginkgo Maison d'hôtes in Amiens offers a unique stay within a historic building. The property features parquet floors, a lounge, and a coffee shop, providing a comfortable and charming environment.
+
+Modern Amenities: Guests enjoy free WiFi, a lounge, and a child-friendly buffet. Additional facilities include an electric vehicle charging station, bicycle parking, and full-day security. The property also offers a daily housekeeping service and luggage storage.
+
+Comfortable Accommodations: Rooms include private bathrooms with free toiletries, tea and coffee makers, and soundproofing. Additional amenities feature work desks, sofa beds, and city views.
+
+Local Attractions: Amiens Train Station is a 15-minute walk away, while The Floating Gardens Park lies about 1.2 miles from the property. Other nearby points of interest include the Tribunal de Grande Instance of Amiens and Zénith d'Amiens. Beauvais–Tillé Airport is about 40 miles away.",https://www.booking.com/hotel/fr/ginkgo-maison-d-39-hotes.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.887125,2.295143
+64,7,Holiday Inn Express Amiens by IHG,7.9,"Holiday Inn Express offers comfortable guest rooms with free WiFi. It is located in the center of Amiens just 164 feet from the Train Station and a 10-minute walk from the Cathedral.
+
+Serviced by a elevator, all of the rooms include air conditioning and a flat-screen HD TV with satellite channels. There is also a safety deposit box and an espresso machine.
+
+A free buffet breakfast is served every morning at the Holiday Inn Express Amiens. Many restaurants can be found nearby.
+
+This nonsmoking hotel also has a bar, a fitness room and laundry and ironing services. Underground, public parking is available nearby for cars up to 5.9 feet high.",https://www.booking.com/hotel/fr/express-by-holiday-inn.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from_sustainable_property_sr=1&from=searchresults,Amiens,49.89167619790575,2.30775386095047
+65,7,Première Classe Amiens,6.5,"Première Classe Amiens is 1.9 mi from the center of Amiens and its cathedral. This hotel offers free WiFi access and a garden.
+
+All rooms at Première Classe Amiens feature a wardrobe, a desk and a flat-screen TV with satellite channels. They include a bathroom with a shower.
+
+Breakfast is served between 6:30 and 10:00 on weekdays and between 7:00 and 10:00 during weekends. Vending machines for drinks and snacks can be found at the reception area.
+
+This property is 3.1 mi from the A16 motorway and 5.6 mi from Amiens Golf Club. Free WiFi is provided.",https://www.booking.com/hotel/fr/premia-re-classe-amiens.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.91856793088747,2.2933133845799603
+66,7,ibis Styles Amiens Centre,8.5,"Comfortable Accommodations: Rooms feature air conditioning, private bathrooms with walk-in showers, and soundproofing. Additional amenities include a TV, wardrobe, and carpeted floors.
+
+Exceptional Facilities: Guests can enjoy a sun terrace, bar, and free WiFi. The hotel offers a lounge, elevator, 24-hour front desk, and daily housekeeping service.
+
+Delicious Breakfast: A continental buffet breakfast is served with juice, fresh pastries, pancakes, cheese, and fruits. Special diet menus are available.
+
+Prime Location: Located in Amiens, the hotel is a three-minute walk from Amiens Train Station and near attractions such as The Floating Gardens Park (about 0.6 miles) and Tribunal de Grande Instance (a six-minute walk). Beauvais–Tillé Airport is about 41 miles away.",https://www.booking.com/hotel/fr/ibis-styles-amiens-centre.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from_sustainable_property_sr=1&from=searchresults,Amiens,49.891422,2.304996
+67,7,Mercure Amiens Cathédrale,8.3,"The 4-star Mercure hotel is located in front of France's biggest medieval cathedral, which is listed as a Unesco World Heritage site.
+
+Each room and suite recently renovated, is spacious: from 25 to 41m2, sound-proofed and air-conditioned during summer months. They come with free Wi-Fi access and a flat-screen TV with satellite channels, which includ French and international channels. tea/coffee making facilities, mini-bar with one free bottle of water.
+
+L' Echanson, the hotel's restaurant, serves a wide range of delicate dishes and regional specialties made with local and regional products.
+
+Bonjour et bienvenue !
+
+Noter hôtel est idéalement situé à quelques pas de la cathédrale, en plein cœur d’Amiens. Profitez d’un stationnement gratuit aux abords de l’hôtel de 17h30 à 9h. Un dépose-minute est à votre disposition pour faciliter votre check-in et déposer vos bagages en chambre. Pour plus de commodité, un parking payant, le parking St-Leu, se trouve à seulement deux minutes à pied.
+
+Nous vous souhaitons un agréable séjour !
+
+Of course! Here’s the translated message:
+
+Hello and welcome!
+
+Our hotel is ideally located just a few steps from the cathedral, in the heart of Amiens. Enjoy free parking around the hotel from 5:30 PM to 9:00 AM. A drop-off area is available to make your check-in easy and to drop off your luggage in your room. For added convenience, there is a paid parking lot, the St-Leu parking, just a two-minute walk away.
+
+We wish you a pleasant stay!",https://www.booking.com/hotel/fr/mercure-amiens-cathdrale.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from_sustainable_property_sr=1&from=searchresults,Amiens,49.89571084445366,2.299562394618988
+68,7,Maison Famille-Confort-Terrasse Jardin-Vue Cathédrale,8.6,"Comfortable Accommodations: Maison Famille-Confort-Terrasse Jardin-Vue Cathédrale in Amiens offers a holiday home with three bedrooms and a living room. The property features a sun terrace, garden, and free WiFi, ensuring a pleasant stay.
+
+Modern Amenities: Guests can enjoy air-conditioning, a fully equipped kitchen, washing machine, and streaming services. Additional amenities include a lounge, outdoor seating area, and family rooms, catering to all needs.
+
+Prime Location: Located 41 mi from Beauvais–Tillé Airport, the holiday home is a 16-minute walk from Amiens Train Station and 1969 feet from The Floating Gardens Park. Nearby attractions include Zénith d'Amiens and the University of Picardie Jules Verne.
+
+Guest Satisfaction: Highly rated by guests for its friendly host, convenient location, and central setting, Maison Famille-Confort-Terrasse Jardin-Vue Cathédrale provides a comfortable and memorable stay.",https://www.booking.com/hotel/fr/maison-famille-47-teletravail-47-belle-vue-direct-paris.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.900628999101,2.313431725685
+69,7,Comfort Hotel Amiens Nord,7.3,"Comfort Hotel Amiens Nord is just 2.5 mi from Amiens city center and offers accommodations in a hotel with a  terrace. Free Wi-Fi, free private parking and meeting rooms are available on site.
+
+The hotel’s rooms feature a flat-screen TV with satellite channels. The private bathroom features a hairdryer, free toiletries and a bathtub.
+
+Every morning, guests can enjoy a breakfast buffet.
+
+Amiens historical center and cathedral are just 3.1 mi away, together with Amiens Zoological Garden. Amiens Train Station is 2.8 mi away and there is access to A16 Motorway 12 mi away.",https://www.booking.com/hotel/fr/kyriad-amiens-nord-xml.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from_sustainable_property_sr=1&from=searchresults,Amiens,49.925134033343554,2.304572761058808
+70,7,Appart'City Confort Amiens Gare,7.8,"Located 984 feet from Noter Dame Cathedral in Amiens and from the Hortillonnages Floating Gardens, Appart'City Confort Amiens Gare features self-catering studios with LCD TVs, and a fully equipped kitchenette. The Picardy Museum is 0.6 mi away and the city's train station is a 5-minute walk away.
+
+The studios also include a bathroom with a walk-in shower, a telephone and a work desk. The studios include wired and WiFi free internet access.
+
+A buffet breakfast is served every day. Breakfast is composed of various breads, including gluten-free bread, pastries, fresh and hot beverages. Fresh fruit and fruit salad, as well as cheeses and yogurts are also provided.
+
+You can visit Amiens Belfry, which is 0.9 mi away or play golf 5 mi away. The A29 motorway is 2 mi away from Appart'City Confort Amiens Gare.",https://www.booking.com/hotel/fr/appart-city-amiens.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from_sustainable_property_sr=1&from=searchresults,Amiens,49.8943163,2.3097612000000254
+71,7,Appt au pied de la cathédrale-parking dans la cour,9.2,"Comfortable Living Space: Appt au pied de la cathédrale-parking dans la cour in Amiens offers a one-bedroom apartment with a kitchenette, washing machine, and TV. Free WiFi is available throughout the property.
+
+Convenient Amenities: Guests benefit from free on-site private parking and a fully equipped kitchen. The apartment includes a washing machine and TV for added comfort.
+
+Prime Location: Located 36 mi from Beauvais–Tillé Airport, the apartment is an 8-minute walk from Amiens Train Station and less than 0.6 mi from The Floating Gardens Park. Nearby attractions include Tribunal de Grande Instance of Amiens, Zénith d'Amiens, and the University of Picardie Jules Verne.",https://www.booking.com/hotel/fr/appt-au-pied-de-la-cathedrale-parking-dans-la-cour.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.8936684,2.3039466
+72,7,Moxy Amiens,8.4,"In the heart of the city and a stone's throw from the train station, our Moxy Amiens hotel is the ideal place for your business or sports trips, for a trip with friends or a discovery stay with your family. Our 3 star hotel, entirely renovated, offers 109 air-conditioned rooms for 1, 2 or 3 people, free wifi and 49 inch connected television.
+
+A bar and a restaurant open to all 24 hours a day where you can eat on the go or taste our regional dishes in a warm and modern atmosphere. Our seminar room with its atypical format will meet your expectations.
+
+Close to all the major assets of the Picardy capital, let our teams guide you to discover the life of Jules Verne, the Hortillonnages and the largest Gothic Cathedral in France. An underground public parking lot is in the immediate vicinity.",https://www.booking.com/hotel/fr/campanile-amiens-centre-gare.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from_sustainable_property_sr=1&from=searchresults,Amiens,49.891249,2.30953
+73,7,Duplex moderne et lumineux,7.9,"Modern Comforts: Duplex moderne et lumineux in Amiens offers a comfortable apartment with one bedroom and one bathroom. Guests enjoy free WiFi in public areas, air-conditioning, and a fully equipped kitchen with a coffee machine, microwave, and stovetop.
+
+Convenient Facilities: The property provides tennis equipment hire, family rooms, culture classes, and full-day security. Additional amenities include a dining area, sofa bed, and tiled floors.
+
+Local Attractions: Located 1.7 mi from Amiens Train Station and 1.9 mi from Zénith d'Amiens, the apartment is near The Floating Gardens Park (1.6 mi) and Tribunal de Grande Instance of Amiens (2.4 mi). Beauvais–Tillé Airport is 37 mi away.",https://www.booking.com/hotel/fr/duplex-moderne-et-lumineux.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.906861,2.290377
+74,7,Studio cosy Amiens,,"Comfortable Living Space: Studio cozy Amiens in Amiens offers a one-bedroom apartment with a fully equipped kitchenette, including a coffee machine, refrigerator, microwave, stovetop, electric kettle, and kitchenware. The dining area features a table and chairs, while the bathroom offers a shower.
+
+Convenient Location: Located 1.2 mi from the Tribunal de Grande Instance of Amiens and 1.5 mi from Amiens Train Station, the apartment is a 19-minute walk from Zénith d'Amiens. Nearby attractions include The Floating Gardens Park (1.9 mi) and the University of Picardie Jules Verne (1.5 mi).
+
+Local Services: Reception staff speak French, providing assistance to guests. Beauvais–Tillé Airport is 35 mi away, offering convenient travel options.",https://www.booking.com/hotel/fr/studio-cosy-amiens-amiens.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.8887135,2.2813558
+75,7,B&B HOTEL Amiens Sud,8.4,"Comfortable Accommodations: B&B HOTEL Amiens Sud in Amiens offers family rooms with air-conditioning, private bathrooms, work desks, and soundproofing. Each room includes a TV, wardrobe, and walk-in shower.
+
+Essential Facilities: Guests enjoy free WiFi, a elevator, daily housekeeping service, electric vehicle charging station, and free on-site private parking. The hotel provides a continental buffet breakfast with warm dishes, juice, fresh pastries, cheese, and fruits.
+
+Prime Location: Located 1.7 mi from Amiens Train Station, 2.9 mi from Zénith d'Amiens, and 2.2 mi from The Floating Gardens Park. Nearby attractions include the University of Picardie Jules Verne and Amiens Golf Club. Beauvais–Tillé Airport is 35 mi away.",https://www.booking.com/hotel/fr/b-amp-b-amiens-sud.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.8704669,2.3023817
+76,7,Maison cosy avec 3 chambres et 3 salles de bains,8.9,"Comfortable Accommodations: Maison cozy avec 3 chambres et 3 salles de bains in Amiens offers three bedrooms and three bathrooms. The property features family rooms, ensuring a pleasant stay for all guests.
+
+Modern Amenities: Guests enjoy free WiFi, streaming services, a washing machine, and a fully equipped kitchen with a refrigerator, microwave, oven, and stovetop. Additional amenities include a work desk, dining area, and private bathrooms.
+
+Convenient Location: Located 41 mi from Beauvais–Tillé Airport, the holiday home is 1.1 mi from Amiens Train Station and 0.9 mi from Tribunal de Grande Instance. Nearby attractions include The Floating Gardens Park, a 14-minute walk away, and Zénith d'Amiens, 2.1 mi distant.
+
+Guest Satisfaction: Highly rated by guests for its convenient location, friendly host, and the quietness of the area.",https://www.booking.com/hotel/fr/maison-de-famille-toute-equipee-au-centre-ville.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.9022645,2.3036914
+77,7,You Hotel Amiens - Handwritten Collection,8.9,"Comfortable Accommodations: You Hotel Amiens - Handwritten Collection in Amiens offers family rooms with air conditioning, private bathrooms, and soundproofing. Each room includes a work desk, TV, and wardrobe.
+
+Exceptional Facilities: Guests can enjoy a fitness center, bar, and free WiFi. Additional amenities include a coffee machine, sofa bed, and shower.
+
+Delicious Breakfast: A continental buffet breakfast is served with local specialties, fresh pastries, pancakes, cheese, fruits, and juice.
+
+Prime Location: Located six minutes from Amiens Train Station and less than 0.6 miles from The Floating Gardens Park. Nearby attractions include Zénith d'Amiens and the University of Picardie Jules Verne. Beauvais–Tillé Airport is about 36 miles away.",https://www.booking.com/hotel/fr/you-amiens-handwritten-collection.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.89109,2.313307
+78,7,DOMITYS - La Plume de Samara,9.1,"Comfortable Accommodations: DOMITYS - La Plume de Samara in Amiens offers condo hotel-style accommodations with balconies, private bathrooms, and fully equipped kitchens. Each unit includes a dining area, TV, and soundproofing for a pleasant stay.
+
+Exceptional Facilities: Guests can enjoy a sauna, sun terrace, indoor swimming pool, and fitness room. Additional amenities include a hot tub, concierge service, daily housekeeping, and free WiFi throughout the property.
+
+Dining Experience: The traditional restaurant serves French cuisine for lunch, complemented by a bar. Breakfast is available à la carte with juice, fresh pastries, cheese, and fruits.
+
+Prime Location: Located a four-minute walk from the University of Picardie Jules Verne and about 40 miles from Beauvais–Tillé Airport, the condo hotel is near attractions such as Zénith d'Amiens and Amiens Train Station.",https://www.booking.com/hotel/fr/domitys-la-plume-de-samara.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.8791407531349,2.26473945388273
+79,7,Elegant 120m2-Face cathedrale-6 pers-free Parking,9.5,"Spacious and Modern: Elegant 120m2-Face cathedrale-6 pers-free Parking in Amiens offers a spacious, recently renovated apartment with two bedrooms and a living room. The property features family rooms, ensuring comfort for all guests.
+
+Modern Amenities: Guests enjoy free WiFi, a bar, and streaming services. The apartment includes a fully equipped kitchen with a coffee machine, microwave, and dishwasher. Additional amenities include a washing machine, work desk, and soundproofing.
+
+Prime Location: Located about 14 minutes from Amiens Train Station and around 0.9 miles from The Floating Gardens Park, the apartment provides easy access to local attractions. Nearby points include the Tribunal de Grande Instance of Amiens and Zénith d'Amiens.
+
+Highly Rated by Guests: Guests appreciate the spaciousness, modern amenities, and free on-site private parking, making it a highly rated choice in Amiens.",https://www.booking.com/hotel/fr/splendid-cathedral-amiens-duplex-hyper-centre.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.8953253054515,2.29772850807481
+80,7,l'esprit d'EMMA,9.8,"Modern Comforts: l'esprit d'EMMA in Amiens offers a recently renovated apartment with a sun terrace and free WiFi. The property includes a elevator, family rooms, and free on-site private parking.
+
+Convenient Amenities: Guests can enjoy a fully equipped kitchen with a coffee machine, dining table, and outdoor furniture. Additional amenities include a washing machine, private bathroom, and a work desk.
+
+Prime Location: Located 15 minutes from Amiens Train Station and 1312 feet from The Floating Gardens Park, the apartment provides easy access to local attractions. Beauvais–Tillé Airport is 43 mi away.",https://www.booking.com/hotel/fr/esprit-d-emma.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9hbWllbnMsIGZyYW5jZUgzWARoO4gBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCxdSU1AbAAgHSAiRlMTFhYzFkOS1hMzJkLTQ1ZGMtOTAzYi0xMTc2MzBjNmMwNTHYAgHgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=0e961c227fc206d7&srepoch=1787112007&from=searchresults,Amiens,49.8996927,2.3125332
+81,1,Hôtel Vert,8.1,"Hotel Vert offers pastel-colored rooms with a private bathroom, TV and free Wi-Fi access. It is located 1.2 mi from the Mont Saint-Michel tidal island on the Normandy Coast.
+
+Guests can enjoy regional cuisine at the Vert’s restaurant, La salicorne. The hotel’s bar, L’Equinoxe, opens onto a private terrace.
+
+The Vert Hotel provides a 24-hour reception and private parking. There is also an on site supermarket and souvenir shop.",https://www.booking.com/hotel/fr/vert.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.61470048629041,-1.5096169710159302
+82,1,Le Relais Saint Michel,8.1,"Le Relais Saint Michel is an hotel facing the bay of Mont Saint-Michel. All guest rooms ( except Twin Room Saint-Michel with interior view) offer a private terrace and some have panoramic views of Mont Saint-Michel.
+
+The soundproofed rooms are comfortable and spacious. They are fully equipped with modern comforts including a mini-bar and free Wi-Fi access. Each room has private bathrooms.
+
+The hotel’s restaurant offers traditional cuisine. Guests can enjoy a drink or a meal on the terrace, which offers views of the Mont St Michel.
+
+A free shuttle service that stops in front of the hotel will take you to the famous landmark Mont St Michel in just 10 minutes. Safety jackets are provided for guests wishing to take a walk at night. For guests arriving by car, secured parking is available with an extra cost.",https://www.booking.com/hotel/fr/le-relais-saint-michel.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.6175872716489,-1.51039615273476
+83,1,Mercure Mont Saint Michel,8.4,"This Mercure is located in parkland just 1.2 mi from the abbey of Mont Saint Michel. It offers spacious rooms with attached bathroom, a restaurant and bar and plenty of free on-site parking.
+
+The air-conditioned rooms at Mercure Mont Saint Michel are equipped with facilities for making hot drinks.  A flat-screen TV with satellite and cable channels is also provided.
+
+The restaurant, Le Pré Salé, is famous in the area and serves delicious seafood and regional specialties. The bar, Le Normandy, offers a relaxed setting for a drink among friends.
+
+Mercure Mont Saint Michel is 4 mi from Pontorson and 32 mi from Saint-Malo.",https://www.booking.com/hotel/fr/mont-saint-michel.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.61424652959294,-1.510545015335083
+84,1,Le Saint Aubert,7.4,"Set amid lush greenery, just 1.2 mi from the Mont Saint-Michel, the hotel welcomes you in a warm and friendly atmosphere.
+
+Hôtel Saint-Aubert features comfortable and very quiet rooms, surrounded by gardens full of flowers.
+
+After a day spent exploring the Mont Saint-Michel, enjoy a delicious regional cuisine in the picturesque setting of a former farmhouse.
+
+The helpful staff will be happy to provide you with information about the visits and the many attractions in the surrounding area.
+
+The check-in is at the reception of Le Relais Saint Michel (last hotel before the bridge leading to the Mont Saint-Michel)",https://www.booking.com/hotel/fr/hotel-saint-aubert.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.612937834706464,-1.5101051330566406
+85,1,La Confiance,7.5,"Composed of 2 different buildings, Les Terrasses Poulard is a historical property in the heart of Mont Saint-Michel and offers views of the bay, the village and the street.
+
+Accessed by stairs, each room has a modern décor. Some rooms include large windows with bay views. They are equipped with TV and a private bathroom.
+
+Breakfast is served at the restaurant Les Terrasses de la Baie. Once arrived at the restaurant, please go to the first floor.
+Alternatively, guests can enjoy a meal at the onsite La Confiance restaurant and offers meals, drinks and snacks.
+
+Guests can enjoy a drink in the Les Terrasses Poulard’s bar. It offers a 24-hour front desk service and guests can leave their luggage at the reception.
+
+Activities in the area include cycling, fishing and hiking and explore the island.
+
+The check-in is at the reception of Le Relais Saint Michel (last hotel before the bridge leading to the Mont Saint-Michel)",https://www.booking.com/hotel/fr/les-terrasses-poulard.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.63529991744177,-1.5103968232870102
+86,1,Hotel De La Digue,7.5,"Comfortable Accommodations: Hotel De La Digue in Le Mont Saint Michel offers family rooms with private bathrooms, balconies, and river views. Each room includes a bath, shower, TV, and soundproofing.
+
+Essential Facilities: Guests enjoy free WiFi, a 24-hour front desk, daily housekeeping, and an electric vehicle charging station. Additional amenities include bicycle parking, room service, and an outdoor seating area.
+
+Dining Options: A continental and American breakfast is served with juice, fresh pastries, cheese, and fruits.
+
+Local Attractions: Mont Saint Michel Abbey and Mont Saint-Michel are about 4 miles away. Other points of interest include the Scriptorial of Avranches and Champrepus Zoo, each around 25 miles from the hotel. Rennes–Saint-Jacques Airport is about 55 miles distant.",https://www.booking.com/hotel/fr/de-la-digue.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.61688154944122,-1.510917842388153
+87,1,Hotel Gabriel,8.2,"Hotel Gabriel is located 1 mi from Mont Saint-Michel. It offers free Wi-Fi access and rooms with attached bathroom just a 25-minute walk from the walls of the old city.
+
+The hotel has no elevator and has rooms on the ground floor, 1st and 2nd floor for family rooms.  Each room has a TV, kettle and a private bathroom with shower and toilet.
+
+A buffet breakfast is available every morning.
+
+Hotel Gabriel is a 6-minute drive from the E401 motorway. Pontorson TGV Train Station has connections to Paris and is 4.5 mi away.
+
+La Salicorne offers you authentic, vegetable, colorful, festive and eco responsible world cuisine. Le Pré Salé offers you Pré Salé lamb and semi gastronomic french cuisine.",https://www.booking.com/hotel/fr/hotel-gabriel.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.61538141368341,-1.510709971189499
+88,1,La Mère Poulard,7.6,"Stay in a Historic Hotel at the Heart of Mont Saint-Michel.
+
+Hôtel La Mère Poulard, located in the heart of Mont Saint-Michel, has preserved the authentic charm of traditional inns from the past. For over a century, this iconic establishment has welcomed pilgrims and travelers from around the world in a setting rich in history.
+
+The hotel consists of three historic houses, each offering a unique atmosphere:
+
+The Historic Inn, where the story of La Mère Poulard began.
+
+La Maison Rouge, with its adjoining garden, providing a peaceful setting.
+
+L’Ermitage, also known as Maison d’Annette, the final residence of the famous cook.
+
+The rooms, with their classic style, offer breathtaking views of the bay, the Abbey, or the medieval town. They are equipped with a flat-screen TV, free Wi-Fi, and a private bathroom with a bathtub.
+
+La Mère Poulard’s renowned restaurant invites you to savor its traditional recipes, including the famous omelet, prepared using Annette Poulard’s unique expertize since 1888.
+
+Take advantage of your stay to explore Mont Saint-Michel and its picturesque streets, hike the surrounding trails, or discover the region by bike.
+
+Avranches is a 23-minute drive away, and Saint-Malo is 45 minutes away.
+
+The check-in is at the reception of Le Relais Saint Michel (last hotel before the bridge leading to the Mont Saint-Michel)",https://www.booking.com/hotel/fr/la-mere-poulard.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.63505774290867,-1.5109439939260485
+89,1,La Vieille Auberge,7.5,"La Vieille Auberge is located in the medieval village of Mont-Saint-Michel, a few steps from the famous abbey. It offers free Wi-Fi, a restaurant, a terrace and hotel reception in its main house.
+
+The rooms are divided between two annexes located high up in the village and accessible by numerous steps. One offers standard rooms in the middle of the village, overlooking the street, while the other, at the top of the village, offers rooms with a view of the bay and a terrace. All rooms have flat-screen TVs and private bathrooms with bath or shower.
+
+The hotel also features a bar and a restaurant serving traditional French cuisine.",https://www.booking.com/hotel/fr/la-vieille-auberge-le-mont-saint-michel.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.636063,-1.511457
+90,1,Le Relais Du Roy,8.3,"Le Relais Du Roy is a 3-star hotel located next to the River Couesnon, just 0.9 mi from the Mont Saint-Michel and 164 feet from the free shuttle bus.
+
+Featuring flat-screen TVs with satellite channels, a telephone and a welcome tray, each guest room at Le Relais Du Roy is decorated in a classic style. They also have a private bathroom with a bath or a shower, free toiletries and a hairdryer. Some of the rooms feature a balcony.
+
+A buffet breakfast is served each morning at the hotel.
+
+A grocery store can be found within a 3-minute walk from the hotel. The town of Pontorson is 4.3 mi away. Private parking is available with an extra cost.",https://www.booking.com/hotel/fr/le-relais-du-roy.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.61626270451236,-1.510905772447586
+91,1,Le Mouton Blanc,7.2,"At the foot of the abbey, the Mouton Blanc Hotel, welcomes you in its historic 14th century location. Le Mouton Blanc provides comfortable rooms with a simple yet cozy decoration.
+
+The rooms are divided in 3 buildings: one of them offers views of the Mont Saint-Michel, and the other one features medieval-style rooms.
+
+The Mouton Blanc restaurant offers local traditional cuisine, served in the dining room or the terrace. Breakfast is served daily.
+
+Personalized services for visits, recreation and other activities are available upon request.
+
+Please note that the reception of the hotel Le Mouton blanc is currently closed. Please note that arrival arrangements are made at the reception of the hotel Les Terrasses Poulard.
+
+The check-in is at the reception of Le Relais Saint Michel (last hotel before the bridge leading to the Mont Saint-Michel)",https://www.booking.com/hotel/fr/le-mouton-blanc-le-mont-saint-michel.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.63573533870306,-1.5098536759614944
+92,1,Hôtel la Croix Blanche,8.1,"Located in the heart of Mont Saint Michel medieval Village, Hôtel La Croix Blanche will be happy to accommodate you.
+
+The rooms at Hôtel La Croix Blanche are located on the third and fourth floor without elevator and have a flat-screen, satellite TV and a mini-bar. Free Wi-Fi access is provided.
+
+In addition to the visit of Mont-Saint-Michel and its abbey, guests can go to Saint-Malo, 31 mi from the hotel.",https://www.booking.com/hotel/fr/ha-el-la-croix-blanche.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.63573406427125,-1.5098610520362854
+93,1,Auberge Saint Pierre,7.9,"The Auberge Saint Pierre is made up of small 14th century half-timbered houses located on the island of Mont-Saint-Michel. It combines the period charm of exposed beams with modern comforts, including a TV and free Wi-Fi.
+
+Ideally located for visiting Mont-Saint-Michel, this hotel is on the main street which leads to the Mont-Saint-Michel abbey.
+
+Two annexes of the hotel are located in the middle of the village and are accessible by numerous stairs.
+
+The rooms at Auberge Saint Pierre and the annexes have a private bathroom with a bath or shower. Some rooms offer sea views.
+
+The hotel serves a buffet breakfast daily. Traditional Norman cuisine and fish dishes are served in the authentic restaurant and you can choose to dine on site.",https://www.booking.com/hotel/fr/auberge-saint-pierre.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.63568797869143,-1.5098825097084043
+94,1,Appart Standing - La Coque d'Or - Mont-St-Michel,9.6,"Modern Comforts: Appart Standing - La Coque d'Or in Mont Saint Michel offers a recently renovated apartment with free WiFi, a kitchenette, and a living room. The property includes a private entrance and a dining area.
+
+Convenient Facilities: Guests benefit from private check-in and check-out services, a shuttle, a coffee shop, family rooms, and luggage storage. Additional amenities include streaming services, a TV, and a walk-in shower.
+
+Prime Location: Located a two-minute walk from Mont Saint Michel Abbey and just steps from Mont Saint-Michel, the apartment provides easy access to local attractions. Nearby points of interest include the Scriptorial of Avranches and Port of Houle. Rennes–Saint-Jacques Airport is about 58 miles away.",https://www.booking.com/hotel/fr/la-coque-d-or.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.6354874,-1.5101555
+95,1,"Chez Adèle, au pied de l'Abbaye",9.1,"Historic Setting: Chez Adèle, au pied de l'Abbaye in Le Mont Saint Michel offers a vacation home experience within a historic building. Guests enjoy sea views and a terrace, perfect for relaxation.
+
+Comfortable Living: The property features two bedrooms and a bathroom, equipped with a kitchen, dining area, and a sofa. Additional amenities include a hairdryer, coffee machine, and complimentary toiletries.
+
+Prime Location: Located just steps from Mont Saint Michel Abbey and a two-minute walk to Mont Saint-Michel, the vacation home is also close to attractions such as the Scriptorial of Avranches and Port of Houle.
+
+Guest Favorites: Guests appreciate the terrace, scenic location, and convenient setting, making it a preferred choice for relaxation and exploration.",https://www.booking.com/hotel/fr/chez-adele-le-mont-saint-michel.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.636165894011,-1.5104757792319998
+96,1,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",8.8,"Comfortable Accommodations: Chambres d'Hôtes Farcy ""La P'tite Transhumance"" in Ardevon offers comfortable rooms with private bathrooms, showers, and wardrobes. Each room includes a private bathroom, shower, and wardrobe, ensuring a pleasant stay.
+
+Facilities and Amenities: Guests can enjoy a shared kitchen and barbecue facilities. Free on-site private parking is available. A continental breakfast is served daily. Reception staff speak English and French.
+
+Local Attractions: Mont Saint Michel Abbey and Mont Saint-Michel are about 5.5 miles away. The Scriptorial of Avranches and Manuscript Museum of Mont Saint-Michel are around 13 miles distant. Rennes–Saint-Jacques Airport is about 53 miles from the property.",https://www.booking.com/hotel/fr/chambres-d-hotes-farcy.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.61435411468349,-1.4870535165329102
+97,1,Auberge de la Baie,8.4,"Ideally located in the heart of the bay and just minutes from Mont-Saint-Michel, the Auberge de la Baie is a perfect stop for travelers seeking serenity in a peaceful, verdant setting. Its location is so exceptional that couples give it a 9.3/10 rating for a two-person stay.
+
+By staying here, you'll benefit from the proximity of shuttle busses (1.2 mi) and hiking trails such as the GR34 and GR223, as well as the Véloscénie bike route leading to Mont-Saint-Michel, allowing you to discover the site at dawn or dusk, when the magic is truly at its best. This strategic location is what earns it the 9.3/10 rating from couples.
+
+One of the most authentic and fascinating sights near the Auberge de la Baie is the passage of the salt marsh sheep. This is an experience travelers love, as it offers a complete immersion in the pastoral life of the bay.
+
+After a day exploring the abbey's narrow streets, return to the comfort of our rooms:
+
+- Free Wi-Fi, flat-screen TV, and private bathroom with hairdryer.
+
+- Delicious Wake-Up: Enjoy a full buffet breakfast each morning, the perfect way to fuel up before setting off on your bay crossing or your climb to the abbey.
+
+- Easy Access: Free parking is available on-site, allowing you to park your vehicle safely and without additional charges.
+
+For dining near the Auberge de la Baie, you'll find several excellent options, ranging from fine dining to casual or traditional cuisine.",https://www.booking.com/hotel/fr/auberge-de-la-baie.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.61599317655586,-1.4882531762123108
+98,1,Camping Les Pommiers du Mont Saint Michel,7.6,"Accommodations Features: Camping Les Pommiers du Mont Saint Michel in Beauvoir offers a sun terrace, restaurant, bar, and free on-site private parking. The property includes a minimarket, evening entertainment, waterpark, and children's playground.
+
+Amenities and Services: Guests can enjoy an outdoor seating area, picnic spots, kids' pool, games room, and bike hire. The camping provides entertainment staff, a kids' club, and a coffee shop. Additional amenities include a refrigerator, microwave, electric kettle, and private bathrooms.
+
+Local Attractions: Mont Saint Michel Abbey and Mont Saint-Michel are 5 mi away. The Scriptorial of Avranches and Champrepus Zoo are 30 mi from the property. Rennes–Saint-Jacques Airport is 55 mi distant.",https://www.booking.com/hotel/fr/camping-aux-pommiers-tohapi.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.596370566858845,-1.511720054244996
+99,1,Hotel Rose,8.4,"Composed of thoughtfully designed independent bungalows and guestrooms in the annex house of a 19th-century building, Hotel Rose offers comfortable accommodations and a peaceful atmosphere.
+
+The residence is set in a verdant park full of trees and flowers. Some of the accommodations opens out onto the river that leads to the famous Mont Saint Michel and offer a tranquil, relaxing living space. All of the bungalows are independently ecological and can accommodate 4 people (or 5 on request).
+
+Enjoy a tasty breakfast, a casual drink or a relaxing moment on the manor's veranda or under the shade of the trees.
+
+Hotel Rose also features a shared living area with a piano, free Wi-Fi access, games and plenty of reading material. Nearby you can take quiet walks or bike rides and enjoy traditional and regional cuisine in one of the local restaurants.",https://www.booking.com/hotel/fr/gue-de-beauvoir.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.59706233179113,-1.513039469718933
+100,1,Résidence Beauvoir le Mont-Saint-Michel,9.4,"Located 2.7 mi from Mont Saint Michel Abbey, Résidence Beauvoir le Mont-Saint-Michel offers self-catered holiday homes with access to a terrace, as well as a tennis court and a BBQ facilities. Free WiFi is offered.
+
+The units provide views of the garden and come with a seating area, a washing machine, a fully equipped kitchen with a dishwasher, and a private bathroom with a hair dryer. An oven and coffee machine are also available.
+
+At the holiday homes guests are welcome to take advantage of an indoor swimming pool.
+
+A garden and a children's playground are provided at the property.
+
+The nearest airport is Dinard Bretagne Airport, 34 mi from the property.",https://www.booking.com/hotel/fr/residence-beauvoir-le-mont-saint-michel.html?aid=304142&label=gen173nr-10CAQoggJCIHNlYXJjaF9tb250IHNhaW50IG1pY2hlbCwgZnJhbmNlSDNYBGg7iAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALO1JTUBsACAdICJDNjOTBjZDc1LTg4NmYtNGViZC05NzEzLTJkMGRmMjk0NzQ2NtgCAeACAQ&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=8fbf1c270d1100b0&srepoch=1787112016&from=searchresults,Mont Saint Michel,48.597878453626,-1.508418656869

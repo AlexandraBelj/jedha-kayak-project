@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+python-dotenv
+boto3
+SQLAlchemy
+psycopg2-binary
+plotly
+playwright
+jupyter
+ipykernel
