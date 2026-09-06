@@ -441,6 +441,25 @@ The S3 bucket is configured without public access.
 
 ---
 
+## Results & Visualizations
+
+### Top 5 Destinations
+
+The destinations are ranked according to their 7-day weather forecast using temperature, rainfall, precipitation probability, wind speed, and humidity.
+
+![Top 5 Destinations](data/outputs/top_5_destinations.png)
+
+[View interactive Top 5 destinations map](data/outputs/top_5_destinations.html)
+
+### Top 20 Hotels
+
+The highest-rated hotels from the selected destinations are displayed on an interactive map.
+
+![Top 20 Hotels](data/outputs/top_20_hotels.png)
+
+[View interactive Top 20 hotels map](data/outputs/top_20_hotels.html)
+
+
 ## Conclusion
 
 This project implements an end-to-end data engineering workflow for travel recommendations.

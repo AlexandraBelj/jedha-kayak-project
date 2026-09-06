@@ -9,3 +9,4 @@ plotly
 playwright
 jupyter
 ipykernel
+kaleido
